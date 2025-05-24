@@ -1,0 +1,1 @@
+print("ASUKA IS HOT")
